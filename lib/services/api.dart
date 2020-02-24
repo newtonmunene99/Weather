@@ -5,7 +5,7 @@ import 'package:weather/models/weather_model.dart';
 
 
 
-const API_KEY = 'a18494d4eee39d449c841066b7e55685';
+const API_KEY = '';
 const CITY_NAME = 'Enugu';
 const URL = 'https://api.openweathermap.org/data/2.5/forecast/daily';
 

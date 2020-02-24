@@ -1,6 +1,6 @@
 import 'package:get_it/get_it.dart';
 
-import 'api.dart';
+import 'services/api.dart';
 
 GetIt locator = GetIt.instance;
 
